@@ -1,24 +1,10 @@
-# front
+# Proyecto PiniaSazon 🍍
 
-## Project setup
-```
-pnpm install
-```
+Este es un proyecto integral que incluye tanto el backend como el frontend.
 
-### Compiles and hot-reloads for development
-```
-pnpm run serve
-```
+## Estructura del Proyecto
+- **Backend-PiniaSazon**: API y lógica de servidor.
+- **Fronted-PiniaSazon**: Interfaz de usuario (Vue).
 
-### Compiles and minifies for production
-```
-pnpm run build
-```
-
-### Lints and fixes files
-```
-pnpm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Cómo ejecutar
+Consulta las instrucciones dentro de cada carpeta para levantar los servicios..
