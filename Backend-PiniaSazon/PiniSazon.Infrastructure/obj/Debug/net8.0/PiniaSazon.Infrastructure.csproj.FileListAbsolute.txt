@@ -1,0 +1,30 @@
+C:\Users\User\source\repos\PiniaSazon\PiniSazon.Infrastructure\bin\Debug\net8.0\PiniaSazon.Infrastructure.deps.json
+C:\Users\User\source\repos\PiniaSazon\PiniSazon.Infrastructure\bin\Debug\net8.0\PiniaSazon.Infrastructure.dll
+C:\Users\User\source\repos\PiniaSazon\PiniSazon.Infrastructure\bin\Debug\net8.0\PiniaSazon.Infrastructure.pdb
+C:\Users\User\source\repos\PiniaSazon\PiniSazon.Infrastructure\bin\Debug\net8.0\PiniaSazon.Domain.dll
+C:\Users\User\source\repos\PiniaSazon\PiniSazon.Infrastructure\bin\Debug\net8.0\PiniaSazon.Domain.pdb
+C:\Users\User\source\repos\PiniaSazon\PiniSazon.Infrastructure\obj\Debug\net8.0\PiniaSazon.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\PiniaSazon\PiniSazon.Infrastructure\obj\Debug\net8.0\PiniaSazon.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\PiniaSazon\PiniSazon.Infrastructure\obj\Debug\net8.0\PiniaSazon.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\PiniaSazon\PiniSazon.Infrastructure\obj\Debug\net8.0\PiniaSazon.Infrastructure.AssemblyInfo.cs
+C:\Users\User\source\repos\PiniaSazon\PiniSazon.Infrastructure\obj\Debug\net8.0\PiniaSazon.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PiniaSazon\PiniSazon.Infrastructure\obj\Debug\net8.0\PiniaSaz.85BF7141.Up2Date
+C:\Users\User\source\repos\PiniaSazon\PiniSazon.Infrastructure\obj\Debug\net8.0\PiniaSazon.Infrastructure.dll
+C:\Users\User\source\repos\PiniaSazon\PiniSazon.Infrastructure\obj\Debug\net8.0\refint\PiniaSazon.Infrastructure.dll
+C:\Users\User\source\repos\PiniaSazon\PiniSazon.Infrastructure\obj\Debug\net8.0\PiniaSazon.Infrastructure.pdb
+C:\Users\User\source\repos\PiniaSazon\PiniSazon.Infrastructure\obj\Debug\net8.0\ref\PiniaSazon.Infrastructure.dll
+E:\Archivos de programa\proyectos\PiniaSazon\PiniSazon.Infrastructure\bin\Debug\net8.0\PiniaSazon.Infrastructure.deps.json
+E:\Archivos de programa\proyectos\PiniaSazon\PiniSazon.Infrastructure\bin\Debug\net8.0\PiniaSazon.Infrastructure.dll
+E:\Archivos de programa\proyectos\PiniaSazon\PiniSazon.Infrastructure\bin\Debug\net8.0\PiniaSazon.Infrastructure.pdb
+E:\Archivos de programa\proyectos\PiniaSazon\PiniSazon.Infrastructure\bin\Debug\net8.0\PiniaSazon.Domain.dll
+E:\Archivos de programa\proyectos\PiniaSazon\PiniSazon.Infrastructure\bin\Debug\net8.0\PiniaSazon.Domain.pdb
+E:\Archivos de programa\proyectos\PiniaSazon\PiniSazon.Infrastructure\obj\Debug\net8.0\PiniaSazon.Infrastructure.csproj.AssemblyReference.cache
+E:\Archivos de programa\proyectos\PiniaSazon\PiniSazon.Infrastructure\obj\Debug\net8.0\PiniaSazon.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Archivos de programa\proyectos\PiniaSazon\PiniSazon.Infrastructure\obj\Debug\net8.0\PiniaSazon.Infrastructure.AssemblyInfoInputs.cache
+E:\Archivos de programa\proyectos\PiniaSazon\PiniSazon.Infrastructure\obj\Debug\net8.0\PiniaSazon.Infrastructure.AssemblyInfo.cs
+E:\Archivos de programa\proyectos\PiniaSazon\PiniSazon.Infrastructure\obj\Debug\net8.0\PiniaSazon.Infrastructure.csproj.CoreCompileInputs.cache
+E:\Archivos de programa\proyectos\PiniaSazon\PiniSazon.Infrastructure\obj\Debug\net8.0\PiniaSaz.85BF7141.Up2Date
+E:\Archivos de programa\proyectos\PiniaSazon\PiniSazon.Infrastructure\obj\Debug\net8.0\PiniaSazon.Infrastructure.dll
+E:\Archivos de programa\proyectos\PiniaSazon\PiniSazon.Infrastructure\obj\Debug\net8.0\refint\PiniaSazon.Infrastructure.dll
+E:\Archivos de programa\proyectos\PiniaSazon\PiniSazon.Infrastructure\obj\Debug\net8.0\PiniaSazon.Infrastructure.pdb
+E:\Archivos de programa\proyectos\PiniaSazon\PiniSazon.Infrastructure\obj\Debug\net8.0\ref\PiniaSazon.Infrastructure.dll

@@ -1,0 +1,30 @@
+C:\Users\User\source\repos\PiniaSazon\PiniSazon.Application\bin\Debug\net8.0\PiniaSazon.Application.deps.json
+C:\Users\User\source\repos\PiniaSazon\PiniSazon.Application\bin\Debug\net8.0\PiniaSazon.Application.dll
+C:\Users\User\source\repos\PiniaSazon\PiniSazon.Application\bin\Debug\net8.0\PiniaSazon.Application.pdb
+C:\Users\User\source\repos\PiniaSazon\PiniSazon.Application\bin\Debug\net8.0\PiniaSazon.Domain.dll
+C:\Users\User\source\repos\PiniaSazon\PiniSazon.Application\bin\Debug\net8.0\PiniaSazon.Domain.pdb
+C:\Users\User\source\repos\PiniaSazon\PiniSazon.Application\obj\Debug\net8.0\PiniaSazon.Application.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\PiniaSazon\PiniSazon.Application\obj\Debug\net8.0\PiniaSazon.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\PiniaSazon\PiniSazon.Application\obj\Debug\net8.0\PiniaSazon.Application.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\PiniaSazon\PiniSazon.Application\obj\Debug\net8.0\PiniaSazon.Application.AssemblyInfo.cs
+C:\Users\User\source\repos\PiniaSazon\PiniSazon.Application\obj\Debug\net8.0\PiniaSazon.Application.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PiniaSazon\PiniSazon.Application\obj\Debug\net8.0\PiniaSaz.82EB7BC5.Up2Date
+C:\Users\User\source\repos\PiniaSazon\PiniSazon.Application\obj\Debug\net8.0\PiniaSazon.Application.dll
+C:\Users\User\source\repos\PiniaSazon\PiniSazon.Application\obj\Debug\net8.0\refint\PiniaSazon.Application.dll
+C:\Users\User\source\repos\PiniaSazon\PiniSazon.Application\obj\Debug\net8.0\PiniaSazon.Application.pdb
+C:\Users\User\source\repos\PiniaSazon\PiniSazon.Application\obj\Debug\net8.0\ref\PiniaSazon.Application.dll
+E:\Archivos de programa\proyectos\PiniaSazon\PiniSazon.Application\bin\Debug\net8.0\PiniaSazon.Application.deps.json
+E:\Archivos de programa\proyectos\PiniaSazon\PiniSazon.Application\bin\Debug\net8.0\PiniaSazon.Application.dll
+E:\Archivos de programa\proyectos\PiniaSazon\PiniSazon.Application\bin\Debug\net8.0\PiniaSazon.Application.pdb
+E:\Archivos de programa\proyectos\PiniaSazon\PiniSazon.Application\bin\Debug\net8.0\PiniaSazon.Domain.dll
+E:\Archivos de programa\proyectos\PiniaSazon\PiniSazon.Application\bin\Debug\net8.0\PiniaSazon.Domain.pdb
+E:\Archivos de programa\proyectos\PiniaSazon\PiniSazon.Application\obj\Debug\net8.0\PiniaSazon.Application.csproj.AssemblyReference.cache
+E:\Archivos de programa\proyectos\PiniaSazon\PiniSazon.Application\obj\Debug\net8.0\PiniaSazon.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Archivos de programa\proyectos\PiniaSazon\PiniSazon.Application\obj\Debug\net8.0\PiniaSazon.Application.AssemblyInfoInputs.cache
+E:\Archivos de programa\proyectos\PiniaSazon\PiniSazon.Application\obj\Debug\net8.0\PiniaSazon.Application.AssemblyInfo.cs
+E:\Archivos de programa\proyectos\PiniaSazon\PiniSazon.Application\obj\Debug\net8.0\PiniaSazon.Application.csproj.CoreCompileInputs.cache
+E:\Archivos de programa\proyectos\PiniaSazon\PiniSazon.Application\obj\Debug\net8.0\PiniaSaz.82EB7BC5.Up2Date
+E:\Archivos de programa\proyectos\PiniaSazon\PiniSazon.Application\obj\Debug\net8.0\PiniaSazon.Application.dll
+E:\Archivos de programa\proyectos\PiniaSazon\PiniSazon.Application\obj\Debug\net8.0\refint\PiniaSazon.Application.dll
+E:\Archivos de programa\proyectos\PiniaSazon\PiniSazon.Application\obj\Debug\net8.0\PiniaSazon.Application.pdb
+E:\Archivos de programa\proyectos\PiniaSazon\PiniSazon.Application\obj\Debug\net8.0\ref\PiniaSazon.Application.dll
