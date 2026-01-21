@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-# PiniaSason
-Grud Recetas
-=======
+
 # Proyecto PiniaSazon 🍍
 
 Este es un proyecto integral que incluye tanto el backend como el frontend.
